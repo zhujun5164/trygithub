@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "备注内容"
+git remote add origin 远端地址
+git push -u origin master
